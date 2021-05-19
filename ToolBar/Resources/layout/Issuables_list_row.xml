@@ -1,0 +1,60 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+            <TextView android:id="@+id/dateTextView"
+                android:layout_weight="100"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:textColor="?attr/colorPrimaryDark"
+                android:layout_gravity="start"
+                android:gravity="start"
+                android:textSize="20dp"
+                />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+<!--            <ImageView android:id="@+id/imageView"
+                android:layout_weight="15"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:background="@drawable/default_category"
+                android:layout_marginRight="20dp"
+                />-->
+            <TextView android:id="@+id/productTextView"
+                android:layout_weight="70"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:textColor="?attr/colorPrimary"
+                android:layout_gravity="start"
+                android:gravity="start"
+                android:textSize="25dp"
+                />
+            <TextView android:id="@+id/qtyTextView"
+                android:layout_weight="30"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:textColor="?attr/colorPrimary"
+                android:layout_gravity="end"
+                android:gravity="end"
+                android:textSize="25dp"
+                />
+    </LinearLayout>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="?android:attr/colorPrimary"/>
+</LinearLayout>

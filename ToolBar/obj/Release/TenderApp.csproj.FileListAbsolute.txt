@@ -1,0 +1,313 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLite-net.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLite.NET.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\SQLite-net.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\drawermain.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\program_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\program_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\fragment3.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\fragment4.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\web_viewfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\listview_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\programs_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\developers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\homefragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\program_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\users_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\users_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\users_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\category_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\category_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\category_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\items_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\items_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\items_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\users_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\login.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\bids_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\bids_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\bids_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\bids_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\category_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\items_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\aboutfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\contactfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\item_bid_selection_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\main.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\menu\edit_menu.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\menu\right_drawer_action_menu.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\values\strings.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\values\styles.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\anim\slide_in.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\ic_help.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\ic_reply.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\ic_undo.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\anim\slide_out.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\values\dimens.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\side_nav_bar.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\slide_down1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\slide_down2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\anim\drag_down_slide.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\anim\drag_up_slide.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\_list2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\radio1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\headset2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\play3.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\playing1.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\speaker1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\stop1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\headset1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\ic_refresh.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\slide_up1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\play1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\playing.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\ic_home.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\users_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\category_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\items_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\bids_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\list2__.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\item_bid_selection_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\chooseimage.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\fm_img1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\bid.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\list_header.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\list2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\layout\links_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\splash_screen.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\values\colors.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\splash.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\R.cs.flag
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\uploadflags.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\TenderApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\TenderApp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\TenderApp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\TenderApp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\TenderApp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\icon2.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\active_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\active_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\actived_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\add_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\add_categories.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\add_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\add_user.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\archived_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\archived_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\categories.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\profile.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\sign_in.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\sign_up.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\about.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\contact.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\users.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\facebook.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\linkedin.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\youtube.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\homeimage.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\TenderApp.TenderApp4.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\TenderApp.TenderApp4-Signed.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\bin\TenderApp.TenderApp4.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\icon_bkp.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\res\drawable\icon.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Microsoft.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Mono.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\Mono.Data.Tds.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Data.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.IO.Compression.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Net.Http.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Numerics.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Transactions.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\Mono.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Data.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Numerics.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\android\assets\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp\ToolBar\obj\Release\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.TenderApp5.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.TenderApp5-Signed.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLite-net.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLite.NET.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\SQLite-net.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\TenderApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\TenderApp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\TenderApp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\bin\TenderApp.TenderApp5.apk
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\drawermain.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\program_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\program_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\fragment3.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\fragment4.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\web_viewfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\listview_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\programs_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\developers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\homefragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\program_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\users_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\users_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\users_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\category_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\category_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\category_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\items_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\items_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\items_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\users_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\login.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\bids_create.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\bids_edit.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\bids_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\bids_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\category_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\items_show.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\aboutfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\contactfragment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\item_bid_selection_index.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\main.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\menu\edit_menu.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\menu\right_drawer_action_menu.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\values\strings.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\values\styles.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\anim\slide_in.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\ic_help.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\ic_reply.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\ic_undo.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\anim\slide_out.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\values\dimens.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\side_nav_bar.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\slide_down1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\slide_down2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\anim\drag_down_slide.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\anim\drag_up_slide.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\_list2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\radio1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\headset2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\play3.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\playing1.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\speaker1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\stop1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\headset1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\ic_refresh.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\slide_up1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\play1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\playing.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\users_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\category_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\items_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\bids_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\list2__.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\item_bid_selection_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\chooseimage.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\icon2.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\fm_img1.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\bid.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\list_header.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\list2.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\layout\links_list_row.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\splash_screen.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\values\colors.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\splash.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\ic_home.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\icon_bkp.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\active_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\active_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\actived_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\add_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\add_categories.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\add_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\add_user.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\archived_bids.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\archived_items.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\categories.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\profile.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\sign_in.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\sign_up.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\about.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\contact.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\users.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\facebook.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\linkedin.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\youtube.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\homeimage.jpg
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\res\drawable\icon.png
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\R.cs.flag
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\uploadflags.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Microsoft.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Mono.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\Mono.Data.Tds.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Data.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.IO.Compression.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Net.Http.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Numerics.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Transactions.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\Mono.CSharp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Data.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Numerics.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\android\assets\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\obj\Release\TenderApp.dll.mdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TenderApp - Sqlite\ToolBar\bin\Release\TenderApp.dll.mdb

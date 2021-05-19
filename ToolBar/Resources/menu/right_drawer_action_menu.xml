@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/help_action"
+        android:icon="@drawable/slide_down2"
+        app:showAsAction="always" />
+  
+    <item android:id="@+id/page3"
+      android:icon="@drawable/slide_down2"
+      android:title="Share App"
+      app:showAsAction="never"/>
+    
+    <item android:id="@+id/logOutOption"
+      android:title="Log Out"
+      app:showAsAction="never"/>
+</menu>
+

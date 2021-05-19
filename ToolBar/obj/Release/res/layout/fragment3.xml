@@ -1,0 +1,11 @@
+<FrameLayout android:orientation="vertical" android:background="#fff" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><!--  
+  <Button
+        android:id="@+id/openFragment4Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click to Radio"
+        android:textColor="#000"
+        android:background="#E2E2E2"
+        android:padding="5dp"
+        android:layout_gravity="center" />
+        --><LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:weightSum="100"><ImageView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="80" android:src="@drawable/icon" android:paddingTop="200dp" /><TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_weight="20" android:text="Live Stream 104.4 Radio FM Mekelle" android:textColor="#000" /></LinearLayout><FrameLayout android:id="@+id/fragment4Container" android:layout_width="match_parent" android:layout_height="400dp" android:background="#E2E2E2" android:layout_gravity="top" android:translationY="-300dp" /></FrameLayout>
